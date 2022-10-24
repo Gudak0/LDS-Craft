@@ -1,0 +1,18 @@
+{
+  "id": "End Spawn_100,49,-1",
+  "name": "End Spawn",
+  "icon": "waypoint-normal.png",
+  "x": 100,
+  "y": 49,
+  "z": -1,
+  "r": 181,
+  "g": 209,
+  "b": 195,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    1
+  ],
+  "persistent": true
+}

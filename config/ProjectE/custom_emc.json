@@ -1,0 +1,708 @@
+{
+  "entries": [
+    {
+      "item": "avaritia:resource|3",
+      "emc": 35600000
+    },
+    {
+      "item": "avaritia:resource|5",
+      "emc": 5545039673
+    },
+    {
+      "item": "avaritia:endest_pearl|0",
+      "emc": 1281632792
+    },
+    {
+      "item": "avaritia:ultimate_stew|0",
+      "emc": 3956155
+    },
+    {
+      "item": "avaritia:cosmic_meatballs|0",
+      "emc": 3956195
+    },
+    {
+      "item": "avaritia:singularity|0",
+      "emc": 33868800
+    },
+    {
+      "item": "avaritia:singularity|9",
+      "emc": 135475200
+    },
+    {
+      "item": "avaritia:singularity|1",
+      "emc": 245145600
+    },
+    {
+      "item": "avaritia:singularity|2",
+      "emc": 103420800
+    },
+    {
+      "item": "avaritia:singularity|3",
+      "emc": 8870400
+    },
+    {
+      "item": "avaritia:singularity|4",
+      "emc": 13619200
+    },
+    {
+      "item": "avaritia:singularity|5",
+      "emc": 16934400
+    },
+    {
+      "item": "avaritia:singularity|6",
+      "emc": 33868800
+    },
+    {
+      "item": "avaritia:singularity|7",
+      "emc": 64512000
+    },
+    {
+      "item": "avaritia:singularity|8",
+      "emc": 64512000
+    },
+    {
+      "item": "avaritia:singularity|10",
+      "emc": 1032192000
+    },
+    {
+      "item": "avaritia:singularity|11",
+      "emc": 1961164800
+    },
+    {
+      "item": "forge:bucketfilled|0",
+      "emc": 0
+    },
+    {
+      "item": "redstonearsenal:material|0",
+      "emc": 1600
+    },
+    {
+      "item": "redstonearsenal:material|32",
+      "emc": 1600
+    },
+    {
+      "item": "avaritia:singularity|12",
+      "emc": 181440000
+    },
+    {
+      "item": "thermalfoundation:material|103",
+      "emc": 2624
+    },
+    {
+      "item": "thermalfoundation:material|167",
+      "emc": 2624
+    },
+    {
+      "item": "OD|1",
+      "emc": 2
+    },
+    {
+      "item": "thermalfoundation:material|160",
+      "emc": 512
+    },
+    {
+      "item": "avaritia:resource|6",
+      "emc": 68689460083
+    },
+    {
+      "item": "avaritia:infinity_sword|0",
+      "emc": 1112926541673
+    },
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 768
+    },
+    {
+      "item": "avaritia:infinity_pickaxe|0",
+      "emc": 1316447553289
+    },
+    {
+      "item": "avaritia:infinity_shovel|0",
+      "emc": 1316123171977
+    },
+    {
+      "item": "avaritia:infinity_axe|0",
+      "emc": 762755478513
+    },
+    {
+      "item": "avaritia:infinity_hoe|0",
+      "emc": 1108617786928
+    },
+    {
+      "item": "avaritia:infinity_bow|0",
+      "emc": 691688598478
+    },
+    {
+      "item": "avaritia:skullfire_sword|0",
+      "emc": 4568192
+    },
+    {
+      "item": "avaritia:infinity_helmet|0",
+      "emc": 1330183942523
+    },
+    {
+      "item": "avaritia:infinity_chestplate|0",
+      "emc": 1669979461704
+    },
+    {
+      "item": "avaritia:infinity_pants|0",
+      "emc": 1131657720098
+    },
+    {
+      "item": "avaritia:infinity_boots|0",
+      "emc": 701937416830
+    },
+    {
+      "item": "avaritia:neutron_collector|0",
+      "emc": 3166720
+    },
+    {
+      "item": "avaritia:neutronium_compressor|0",
+      "emc": 8014468029
+    },
+    {
+      "item": "chisel:concrete_brown1|15",
+      "emc": 1
+    },
+    {
+      "item": "chisel:antiblock|6",
+      "emc": 0
+    },
+    {
+      "item": "OD|#0001/1",
+      "emc": 15
+    },
+    {
+      "item": "minecraft:stone|1",
+      "emc": 16
+    },
+    {
+      "item": "eternalsingularity:enternal_singularity|0",
+      "emc": 2099999999
+    },
+    {
+      "item": "minecraft:cooked_beef|0",
+      "emc": 64
+    },
+    {
+      "item": "eternalsingularity:eternal_singularity|0",
+      "emc": 3895024000
+    },
+    {
+      "item": "avaritiaio:infinitecapacitor|0",
+      "emc": 1551273846897
+    },
+    {
+      "item": "avaritia_neutronium_addon:neutroniumunstableingot|0",
+      "emc": 9223372036854775807
+    },
+    {
+      "item": "thermalfoundation:material|1024",
+      "emc": 816
+    },
+    {
+      "item": "projecte:item.pe_fuel|1",
+      "emc": 3490560
+    },
+    {
+      "item": "projecte:item.pe_fuel|2",
+      "emc": 125750016
+    },
+    {
+      "item": "projecte:fuel_block|2",
+      "emc": 10185751296
+    },
+    {
+      "item": "projecte:fuel_block|1",
+      "emc": 282735360
+    },
+    {
+      "item": "projecte:item.pe_fuel|0",
+      "emc": 94464
+    },
+    {
+      "item": "projecte:fuel_block|0",
+      "emc": 7651584
+    },
+    {
+      "item": "projecte:item.pe_matter|0",
+      "emc": 742663821312
+    },
+    {
+      "item": "projecte:matter_block|0",
+      "emc": 60155769526272
+    },
+    {
+      "item": "projecte:item.pe_matter|1",
+      "emc": 20601953745408
+    },
+    {
+      "item": "projecte:matter_block|1",
+      "emc": 1668758253378048
+    },
+    {
+      "item": "thermalfoundation:material|2049",
+      "emc": 6
+    },
+    {
+      "item": "thermalfoundation:material|1025",
+      "emc": 38
+    },
+    {
+      "item": "thermalfoundation:material|772",
+      "emc": 2
+    },
+    {
+      "item": "thermalfoundation:material|770",
+      "emc": 64
+    },
+    {
+      "item": "thermalfoundation:material|2051",
+      "emc": 11
+    },
+    {
+      "item": "thermalfoundation:material|2053",
+      "emc": 132
+    },
+    {
+      "item": "thermalfoundation:material|1026",
+      "emc": 44
+    },
+    {
+      "item": "thermalfoundation:material|1027",
+      "emc": 196
+    },
+    {
+      "item": "thermalfoundation:material|164",
+      "emc": 576
+    },
+    {
+      "item": "thermalfoundation:material|800",
+      "emc": 4
+    },
+    {
+      "item": "thermalfoundation:material|864",
+      "emc": 1024
+    },
+    {
+      "item": "thermalfoundation:material|865",
+      "emc": 4608
+    },
+    {
+      "item": "thermalfoundation:material|135",
+      "emc": 1024
+    },
+    {
+      "item": "thermalfoundation:material|866",
+      "emc": 17408
+    },
+    {
+      "item": "thermalfoundation:fertilizer|2",
+      "emc": 8289
+    },
+    {
+      "item": "thermaldynamics:duct_0|2",
+      "emc": 1258
+    },
+    {
+      "item": "thermaldynamics:duct_0|5",
+      "emc": 12349
+    },
+    {
+      "item": "thermaldynamics:duct_32|2",
+      "emc": 424
+    },
+    {
+      "item": "thermaldynamics:duct_32|3",
+      "emc": 477
+    },
+    {
+      "item": "thermaldynamics:duct_64|0",
+      "emc": 370
+    },
+    {
+      "item": "thermaldynamics:duct_64|2",
+      "emc": 4066
+    },
+    {
+      "item": "thermalfoundation:dye|0",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|7",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|9",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|12",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|13",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|14",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|5",
+      "emc": 440
+    },
+    {
+      "item": "thermalfoundation:dye|11",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|1",
+      "emc": 16
+    },
+    {
+      "item": "thermalfoundation:dye|6",
+      "emc": 436
+    },
+    {
+      "item": "thermalfoundation:dye|3",
+      "emc": 128
+    },
+    {
+      "item": "thermalfoundation:dye|15",
+      "emc": 48
+    },
+    {
+      "item": "thermalfoundation:dye|2",
+      "emc": 8
+    },
+    {
+      "item": "thermalfoundation:dye|10",
+      "emc": 28
+    },
+    {
+      "item": "thermalfoundation:dye|8",
+      "emc": 32
+    },
+    {
+      "item": "thermalfoundation:dye|4",
+      "emc": 864
+    },
+    {
+      "item": "thermalfoundation:material|32",
+      "emc": 256
+    },
+    {
+      "item": "thermalfoundation:material|33",
+      "emc": 2048
+    },
+    {
+      "item": "thermalfoundation:material|320",
+      "emc": 128
+    },
+    {
+      "item": "thermalfoundation:material|321",
+      "emc": 256
+    },
+    {
+      "item": "thermalfoundation:material|322",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|323",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|324",
+      "emc": 128
+    },
+    {
+      "item": "thermalfoundation:material|325",
+      "emc": 1024
+    },
+    {
+      "item": "thermalfoundation:material|326",
+      "emc": 4096
+    },
+    {
+      "item": "thermalfoundation:material|327",
+      "emc": 1024
+    },
+    {
+      "item": "thermalfoundation:material|352",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|353",
+      "emc": 1280
+    },
+    {
+      "item": "thermalfoundation:material|354",
+      "emc": 512
+    },
+    {
+      "item": "thermalfoundation:material|355",
+      "emc": 160
+    },
+    {
+      "item": "thermalfoundation:material|356",
+      "emc": 576
+    },
+    {
+      "item": "thermalfoundation:material|357",
+      "emc": 384
+    },
+    {
+      "item": "thermalfoundation:material|358",
+      "emc": 704
+    },
+    {
+      "item": "thermalfoundation:material|359",
+      "emc": 2624
+    },
+    {
+      "item": "minecraft:dragon_breath|0",
+      "emc": 181077
+    },
+    {
+      "item": "solarflux:solar_panel_neutronium|0",
+      "emc": 6093492524
+    },
+    {
+      "item": "solarflux:solar_panel_infinity|0",
+      "emc": 99653010988
+    },
+    {
+      "item": "redstonearsenal:material|160",
+      "emc": 8832
+    },
+    {
+      "item": "redstonearsenal:material|128",
+      "emc": 1600
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|28",
+      "emc": 19348
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|29",
+      "emc": 22754
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|19",
+      "emc": 15552
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|21",
+      "emc": 9136
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|23",
+      "emc": 3904
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|24",
+      "emc": 9024
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|25",
+      "emc": 35264
+    },
+    {
+      "item": "enderio:item_material|20",
+      "emc": 77
+    },
+    {
+      "item": "enderio:item_alloy_ingot|8",
+      "emc": 417
+    },
+    {
+      "item": "enderio:item_alloy_ingot|9",
+      "emc": 512
+    },
+    {
+      "item": "enderio:item_material|50",
+      "emc": 208
+    },
+    {
+      "item": "enderio:item_material|46",
+      "emc": 8
+    },
+    {
+      "item": "enderio:item_material|48",
+      "emc": 64
+    },
+    {
+      "item": "appliedenergistics2:material|3",
+      "emc": 256
+    },
+    {
+      "item": "enderio:item_material|32",
+      "emc": 864
+    },
+    {
+      "item": "enderio:item_material|33",
+      "emc": 256
+    },
+    {
+      "item": "enderio:item_material|1",
+      "emc": 1999
+    },
+    {
+      "item": "enderio:item_material|28",
+      "emc": 113
+    },
+    {
+      "item": "enderio:item_material|8",
+      "emc": 96
+    },
+    {
+      "item": "enderio:item_material|9",
+      "emc": 16
+    },
+    {
+      "item": "enderio:item_material|10",
+      "emc": 20
+    },
+    {
+      "item": "enderio:item_material|43",
+      "emc": 10122
+    },
+    {
+      "item": "enderio:block_enderman_skull|0",
+      "emc": 576
+    },
+    {
+      "item": "enderio:item_soul_vial|1",
+      "emc": 0
+    },
+    {
+      "item": "enderio:item_material|16",
+      "emc": 21112
+    },
+    {
+      "item": "enderio:item_material|17",
+      "emc": 24576
+    },
+    {
+      "item": "enderio:item_material|49",
+      "emc": 22
+    },
+    {
+      "item": "enderio:item_material|74",
+      "emc": 2097
+    },
+    {
+      "item": "enderio:item_material|53",
+      "emc": 2196
+    },
+    {
+      "item": "enderio:item_material|19",
+      "emc": 20152
+    },
+    {
+      "item": "enderio:item_material|3",
+      "emc": 2880
+    },
+    {
+      "item": "enderio:block_enlightened_fused_quartz|0",
+      "emc": 2550
+    },
+    {
+      "item": "enderio:block_dark_fused_quartz|0",
+      "emc": 1232
+    },
+    {
+      "item": "draconicevolution:draconium_ingot|0",
+      "emc": 32768
+    },
+    {
+      "item": "draconicevolution:draconium_dust|0",
+      "emc": 32768
+    },
+    {
+      "item": "draconicevolution:draconic_ingot|0",
+      "emc": 4967744
+    },
+    {
+      "item": "draconicevolution:awakened_core|0",
+      "emc": 28418624
+    },
+    {
+      "item": "draconicevolution:chaos_shard|0",
+      "emc": 991440000000000
+    },
+    {
+      "item": "draconicevolution:chaos_shard|3",
+      "emc": 1360000000000
+    },
+    {
+      "item": "draconicevolution:chaotic_core|0",
+      "emc": 991573545472
+    },
+    {
+      "item": "draconicevolution:reactor_core|0",
+      "emc": 991553772800
+    },
+    {
+      "item": "projecte:item.pe_klein_star|0",
+      "emc": 3064346624
+    },
+    {
+      "item": "projecte:item.pe_klein_star|1",
+      "emc": 12257386496
+    },
+    {
+      "item": "projecte:item.pe_klein_star|2",
+      "emc": 49029545984
+    },
+    {
+      "item": "projecte:item.pe_klein_star|4",
+      "emc": 784472735744
+    },
+    {
+      "item": "projecte:item.pe_klein_star|3",
+      "emc": 196118183936
+    },
+    {
+      "item": "projecte:item.pe_klein_star|5",
+      "emc": 3137890942976
+    },
+    {
+      "item": "chisel:futura|5",
+      "emc": 0
+    },
+    {
+      "item": "projecte:dm_pedestal|0",
+      "emc": 3448679963516928
+    },
+    {
+      "item": "projecte:item.pe_swrg|0",
+      "emc": 240623078166532
+    },
+    {
+      "item": "projecte:item.pe_dm_armor_3|0",
+      "emc": 1804673085788160
+    },
+    {
+      "item": "projecte:item.pe_dm_armor_2|0",
+      "emc": 4030436558260224
+    },
+    {
+      "item": "projecte:item.pe_dm_armor_1|0",
+      "emc": 3729657710628864
+    },
+    {
+      "item": "projecte:item.pe_dm_armor_0|0",
+      "emc": 2526542320103424
+    },
+    {
+      "item": "projecte:item.pe_evertide_amulet|0",
+      "emc": 243593733479424
+    },
+    {
+      "item": "projecte:item.pe_volcanite_amulet|0",
+      "emc": 243593733478720
+    }
+  ]
+}

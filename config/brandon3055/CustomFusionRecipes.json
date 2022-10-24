@@ -1,0 +1,187 @@
+[
+	{
+		"mode": "ADD",
+		"result": "draconicevolution:draconic_helm",
+		"catalyst": "projecte:item.pe_gem_armor_3",
+		"energy": 250000,
+		"tier": 2,
+		"ingredients": [
+			"draconicevolution:dragon_heart",
+			"draconicevolution:dragon_heart",
+			"draconicevolution:dragon_heart",
+			"draconicevolution:dragon_heart",
+			"eternalsingularity:eternal_singularity",
+			"eternalsingularity:eternal_singularity",
+			"projecte:item.pe_klein_star,1,5",
+			"projecte:item.pe_klein_star,1,5"
+		]
+	},
+		{
+		"mode": "ADD",
+		"result": "draconicevolution:draconic_chest",
+		"catalyst": "projecte:item.pe_gem_armor_2",
+		"energy": 250000,
+		"tier": 2,
+		"ingredients": [
+			"draconicevolution:dragon_heart",
+			"draconicevolution:dragon_heart",
+			"draconicevolution:dragon_heart",
+			"draconicevolution:dragon_heart",
+			"eternalsingularity:eternal_singularity",
+			"eternalsingularity:eternal_singularity",
+			"projecte:item.pe_klein_star,1,5",
+			"projecte:item.pe_klein_star,1,5"
+		]
+	},
+		{
+		"mode": "ADD",
+		"result": "draconicevolution:draconic_legs",
+		"catalyst": "projecte:item.pe_gem_armor_1",
+		"energy": 250000,
+		"tier": 2,
+		"ingredients": [
+			"draconicevolution:dragon_heart",
+			"draconicevolution:dragon_heart",
+			"draconicevolution:dragon_heart",
+			"draconicevolution:dragon_heart",
+			"eternalsingularity:eternal_singularity",
+			"eternalsingularity:eternal_singularity",
+			"projecte:item.pe_klein_star,1,5",
+			"projecte:item.pe_klein_star,1,5"
+		]
+	},
+		{
+		"mode": "ADD",
+		"result": "draconicevolution:draconic_boots",
+		"catalyst": "projecte:item.pe_gem_armor_0",
+		"energy": 250000,
+		"tier": 2,
+		"ingredients": [
+			"draconicevolution:dragon_heart",
+			"draconicevolution:dragon_heart",
+			"draconicevolution:dragon_heart",
+			"draconicevolution:dragon_heart",
+			"eternalsingularity:eternal_singularity",
+			"eternalsingularity:eternal_singularity",
+			"projecte:item.pe_klein_star,1,5",
+			"projecte:item.pe_klein_star,1,5"
+		]
+	},
+			{
+		"mode": "ADD",
+		"result": "draconicevolution:draconic_staff_of_power",
+		"catalyst": "projecte:transmutation_table",
+		"energy": 214748364,
+		"tier": 3,
+		"ingredients": [
+			"projecte:item.pe_rm_sword",
+			"draconicevolution:draconic_sword",
+			"projecte:item.pe_rm_pick",
+			"draconicevolution:draconic_pick",
+			"projecte:item.pe_rm_axe",
+			"draconicevolution:draconic_axe",
+			"projecte:item.pe_rm_shears",		
+			"draconicevolution:draconic_shovel",
+			"projecte:item.pe_klein_star,1,5",
+			"draconicevolution:dragon_heart"
+		]
+	},
+		{
+		"mode": "ADD",
+		"result": "eternalsingularity:eternal_singularity",
+		"catalyst": "minecraft:nether_star",
+		"energy": 666666666,
+		"tier": 1,
+		"ingredients": [
+			"avaritia:singularity,1,0",
+			"avaritia:singularity,1,1",
+			"avaritia:singularity,1,2",
+			"avaritia:singularity,1,3",
+			"avaritia:singularity,1,4",
+			"avaritia:singularity,1,5",
+			"avaritia:singularity,1,6",
+			"avaritia:singularity,1,7",
+			"avaritia:singularity,1,8",
+			"avaritia:singularity,1,9",
+			"avaritia:singularity,1,10",
+			"avaritia:singularity,1,11",
+			"avaritia:singularity,1,12",
+			"avaritia:singularity,1,13",
+			"avaritia:singularity,1,14"
+		]
+	},
+			{
+		"mode": "ADD",
+		"result": "avaritia_neutronium_addon:neutroniumsingularity",
+		"catalyst": "minecraft:nether_star",
+		"energy": 307445734561825860,
+		"tier": 3,
+		"ingredients": [
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre",
+			"avaritia_neutronium_addon:neutroniumstarre"
+		]
+	},
+				{
+		"mode": "ADD",
+		"result": "minecraft:glass",
+		"catalyst": "minecraft:glass",
+		"energy": 2147483647,
+		"tier": 3,
+		"ingredients": [
+			"minecraft:dirt,1,0"
+		]
+	},
+	{
+		"mode": "REMOVE",
+		"result": "draconicevolution:draconic_helm",
+		"catalyst": "draconicevolution:wyvern_helm"
+	},
+	{
+		"mode": "REMOVE",
+		"result": "draconicevolution:draconic_chest",
+		"catalyst": "draconicevolution:wyvern_chest"
+	},
+	{
+		"mode": "REMOVE",
+		"result": "draconicevolution:draconic_legs",
+		"catalyst": "draconicevolution:wyvern_legs"
+	},
+	{
+		"mode": "REMOVE",
+		"result": "draconicevolution:draconic_boots",
+		"catalyst": "draconicevolution:wyvern_boots"
+	},
+		{
+		"mode": "REMOVE",
+		"result": "draconicevolution:draconic_staff_of_power",
+		"catalyst": "draconicevolution:draconic_pick"
+	}
+]

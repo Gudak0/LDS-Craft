@@ -1,0 +1,40 @@
+{
+  "botToken": "NjMwNDczNzM0MDM3MzA3Mzkz.XZo1HA.lotVyDZ4U4MWW85FC_0DqT_Lpqg",
+  "tokenStore": "JSON",
+  "ignoreBots": false,
+  "botDiscordGame": "",
+  "minecraftBroadcastTemplate": "&2<BROADCAST> %s",
+  "channels": [
+    {
+      "discordId": "630475166962548765",
+      "discord": {
+        "joinedTemplate": "_%s just joined the server_",
+        "leftTemplate": "_%s just left the server_",
+        "publicChat": {
+          "anonymousChatTemplate": "`%a:` %s",
+          "authenticatedChatTemplate": "%s"
+        },
+        "serverUpMessage": "Server has started.",
+        "serverDownMessage": "Server has stopped.",
+        "broadcastTemplate": "_<BROADCAST> %s_",
+        "deathTemplate": "**%s**"
+      },
+      "minecraft": {
+        "roles": {},
+        "chatTemplate": "&7<%a> &f%s",
+        "attachment": {
+          "template": "&3[Attachment]&r",
+          "hoverTemplate": "Click to open attachment.",
+          "allowLink": true
+        },
+        "mention": {
+          "userTemplate": "@%s",
+          "roleTemplate": "@%s",
+          "everyoneTemplate": "&6@%s",
+          "channelTemplate": "&9#%s"
+        }
+      }
+    }
+  ],
+  "prefixBlacklist": []
+}

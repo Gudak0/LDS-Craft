@@ -1,0 +1,14 @@
+name = "More Refined Storage"
+filename = "morerefinedstorage-1.2.01.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "c19a8e30f99f6ee723ae150603f3ab956dfd7def"
+
+[update]
+[update.curseforge]
+file-id = 3523371
+project-id = 311148

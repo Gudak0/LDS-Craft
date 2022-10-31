@@ -1,0 +1,14 @@
+name = "Nevoka Core"
+filename = "nevoka-core-1.0.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "4803abf0b67f8ec3c2e2f2e919115683560f762e"
+
+[update]
+[update.curseforge]
+file-id = 2676406
+project-id = 311147

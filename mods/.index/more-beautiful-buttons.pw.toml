@@ -1,0 +1,14 @@
+name = "More Beautiful Buttons"
+filename = "morebeautifulbuttons-1.12.2-1.7.3.20.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "db04acd4a9a0a6d1320257c73c8b33eaeddbef1c"
+
+[update]
+[update.curseforge]
+file-id = 2563092
+project-id = 272755

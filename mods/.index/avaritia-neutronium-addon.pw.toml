@@ -1,0 +1,14 @@
+name = "Avaritia neutronium addon"
+filename = "Avaritia neutronium addon 1.12.2 1.4.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "36e074e712cacc2fef1bd3b0a216d05060205cf8"
+
+[update]
+[update.curseforge]
+file-id = 2770896
+project-id = 326087

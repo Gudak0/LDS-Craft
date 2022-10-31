@@ -1,0 +1,14 @@
+name = "Inventory Save"
+filename = "inventorysave-1.1.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "4f0aa4dc1bb9f2e6ee670c8a2ac78dbc01efe152"
+
+[update]
+[update.curseforge]
+file-id = 2803472
+project-id = 306759

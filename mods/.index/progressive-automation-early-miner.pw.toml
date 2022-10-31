@@ -1,0 +1,14 @@
+name = "Progressive Automation"
+filename = "ProgressiveAutomation-1.12.2-1.7.8.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "92a85332f0dedc018541225eac59817ef5215209"
+
+[update]
+[update.curseforge]
+file-id = 2692318
+project-id = 220606

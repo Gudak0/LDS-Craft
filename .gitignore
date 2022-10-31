@@ -1,0 +1,22 @@
+asm/
+backups/
+betterrecords/
+crash-reports/
+journeymap/
+logs/
+opframe_cache/
+saves/
+screenshots/
+shitlist/
+tv-cache/
+.ReAuth.cfg
+crafttweaker.log
+hotbar.nbt
+Mod List.md
+*.so
+*.dll
+options.txt
+output.gui
+servers.dat
+usercache.json
+usernamecache.json
